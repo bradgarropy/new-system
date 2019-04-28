@@ -1,4 +1,4 @@
-# 💻 new system setup
+# 💻 new system
 
 * [Google Chrome](https://www.google.com/chrome/)
 * [Git](https://git-scm.com/)
