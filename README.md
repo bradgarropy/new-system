@@ -1,14 +1,41 @@
 # 💻 new system
 
--   [Homebrew][homebrew]
+## languages
+
+-   [Node.js][node]
+-   [Python][python]
+
+## packages
+
+-   [Node.js][node]
+    - serve
+    - netlify-cli
+    - gatsby-cli
+    - vsce
 
 ## applications
 
 -   [Google Chrome][chrome]
 -   [Git][git]
 -   [hub][hub]
--   [Node.js][node]
--   [Python][python]
+-   [Vistual Studio Code][vscode]
+-   [Epic Games Launcher][epic]
+-   [Steam][steam]
+-   [Battle.net][battlenet]
+-   [OBS][obs]
+-   [Spotify][spotify]
+-   [Slack][slack]
+-   [Adobe Creative Cloud][adobe]
+-   [Postman][postman]
+
+## management
+
+-   Corsair iCUE
+-   NZXT CAM
+-   NVIDIA GeForce Experience
+
+## configuration
+
 -   Terminal
     -   [bashrc][bashrc]
     -   [bash_profile][bash-profile]
@@ -34,23 +61,11 @@
         -   [Night Owl][night-owl]
         -   [Cobalt2 Theme Official][cobalt2]
         -   [One Dark Pro][one-dark-pro]
-- Epic Games Launcher
-- Steam
-- Battle.net
-- OBS
-- Spotify
-- Slack
-- Corasir iCUE
-- NZXT CAM
-- NVIDIA GeForce Experience
-- Adobe Creative Cloud
 
-[homebrew]: https://brew.sh/
+
 [chrome]: https://www.google.com/chrome/
 [git]: https://git-scm.com/
 [hub]: https://hub.github.com/
-[github]: https://desktop.github.com/
-[nvm]: https://github.com/nvm-sh/nvm
 [node]: https://nodejs.org/
 [python]: https://www.python.org/
 [bashrc]: https://github.com/bradgarropy/dotfiles/blob/master/.bashrc
@@ -76,3 +91,11 @@
 [night-owl]: https://marketplace.visualstudio.com/items/sdras.night-owl
 [cobalt2]: https://marketplace.visualstudio.com/items/wesbos.theme-cobalt2
 [one-dark-pro]: https://marketplace.visualstudio.com/items/zhuangtongfa.Material-theme
+[epic]: https://www.epicgames.com/store/en-US
+[steam]: https://store.steampowered.com
+[battlenet]: https://www.blizzard.com/en-us/apps/battle.net/desktop
+[obs]: https://obsproject.com
+[spotify]: https://www.spotify.com/us
+[slack]: https://slack.com/downloads/windows
+[adobe]: https://www.adobe.com/creativecloud.html
+[postman]: https://www.getpostman.com
