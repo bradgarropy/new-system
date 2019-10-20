@@ -43,6 +43,7 @@
 - Corasir iCUE
 - NZXT CAM
 - NVIDIA GeForce Experience
+- Adobe Creative Cloud
 
 [homebrew]: https://brew.sh/
 [chrome]: https://www.google.com/chrome/
