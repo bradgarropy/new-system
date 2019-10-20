@@ -38,6 +38,10 @@
 -   [Visual Studio Code][vscode]
     -   [Settings][vscode-settings]
     -   [Extensions][vscode-extensions]
+    
+## personalization
+
+-   [Wallpaper][wallpaper]
 
 [node]: https://nodejs.org
 [python]: https://www.python.org
@@ -61,3 +65,4 @@
 [bash-profile]: https://github.com/bradgarropy/dotfiles/blob/master/.bash_profile
 [vscode-settings]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/settings.json
 [vscode-extensions]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/extensions.txt
+[wallpaper]: https://www.figma.com/file/JOjC6aBAWeODhtSPIv7QVm5Q/%F0%9F%8F%A0-my-home-on-the-web?node-id=156%3A4
