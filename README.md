@@ -34,6 +34,15 @@
         -   [Night Owl][night-owl]
         -   [Cobalt2 Theme Official][cobalt2]
         -   [One Dark Pro][one-dark-pro]
+- Epic Games Launcher
+- Steam
+- Battle.net
+- OBS
+- Spotify
+- Slack
+- Corasir iCUE
+- NZXT CAM
+- NVIDIA GeForce Experience
 
 [homebrew]: https://brew.sh/
 [chrome]: https://www.google.com/chrome/
