@@ -7,11 +7,7 @@
 
 ## packages
 
--   [Node.js][node]
-    - serve
-    - netlify-cli
-    - gatsby-cli
-    - vsce
+-   [Node.js][node-packages]
 
 ## applications
 
@@ -30,67 +26,26 @@
 
 ## management
 
--   Corsair iCUE
--   NZXT CAM
--   NVIDIA GeForce Experience
+-   [NZXT CAM][cam]
+-   [Corsair iCUE][icue]
+-   [NVIDIA GeForce Experience][geforce]
 
 ## configuration
 
 -   Terminal
     -   [bashrc][bashrc]
     -   [bash_profile][bash-profile]
--   [Vistual Studio Code][vscode]
+-   [Visual Studio Code][vscode]
     -   [Settings][vscode-settings]
-    -   Extensions
-        -   [Atom One Dark Theme][one-dark]
-        -   [One Monokai Theme][one-monokai]
-        -   [Better TOML][better-toml]
-        -   [ESLint][eslint]
-        -   [Material Theme][material]
-        -   [Prettier][prettier]
-        -   [file-icons][file-icons]
-        -   [Auto Rename Tag][auto-rename-tag]
-        -   [GitHub Actions][github-actions]
-        -   [vscode-styled-components][styled-components]
-        -   [Oceanic Next][oceanic-next]
-        -   [DotENV][dotenv]
-        -   [HTMLHint][html-hint]
-        -   [Python][vscode-python]
-        -   [Material Icon Theme][material-icon]
-        -   [Live Server][live-server]
-        -   [Night Owl][night-owl]
-        -   [Cobalt2 Theme Official][cobalt2]
-        -   [One Dark Pro][one-dark-pro]
+    -   [Extensions][vscode-extensions]
 
-
-[chrome]: https://www.google.com/chrome/
-[git]: https://git-scm.com/
-[hub]: https://hub.github.com/
-[node]: https://nodejs.org/
-[python]: https://www.python.org/
-[bashrc]: https://github.com/bradgarropy/dotfiles/blob/master/.bashrc
-[bash-profile]: https://github.com/bradgarropy/dotfiles/blob/master/.bash_profile
-[vscode]: https://code.visualstudio.com/
-[vscode-settings]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/settings.json
-[one-dark]: https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark
-[one-monokai]: https://marketplace.visualstudio.com/items/azemoh.one-monokai
-[better-toml]: https://marketplace.visualstudio.com/items/bungcip.better-toml
-[eslint]: https://marketplace.visualstudio.com/items/dbaeumer.vscode-eslint
-[material]: https://marketplace.visualstudio.com/items/Equinusocio.vsc-material-theme
-[prettier]: https://marketplace.visualstudio.com/items/esbenp.prettier-vscode
-[file-icons]: https://marketplace.visualstudio.com/items/file-icons.file-icons
-[auto-rename-tag]: https://marketplace.visualstudio.com/items/formulahendry.auto-rename-tag
-[github-actions]: https://marketplace.visualstudio.com/items/formulahendry.github-actions
-[styled-components]: https://marketplace.visualstudio.com/items/jpoissonnier.vscode-styled-components
-[oceanic-next]: https://marketplace.visualstudio.com/items/mhartington.oceanic-next
-[dotenv]: https://marketplace.visualstudio.com/items/mikestead.dotenv
-[html-hint]: https://marketplace.visualstudio.com/items/mkaufman.HTMLHint
-[vscode-python]: https://marketplace.visualstudio.com/items/ms-python.python
-[material-icon]: https://marketplace.visualstudio.com/items/PKief.material-icon-theme
-[live-server]: https://marketplace.visualstudio.com/items/ritwickdey.LiveServer
-[night-owl]: https://marketplace.visualstudio.com/items/sdras.night-owl
-[cobalt2]: https://marketplace.visualstudio.com/items/wesbos.theme-cobalt2
-[one-dark-pro]: https://marketplace.visualstudio.com/items/zhuangtongfa.Material-theme
+[node]: https://nodejs.org
+[python]: https://www.python.org
+[node-packages]: https://github.com/bradgarropy/dotfiles/blob/master/node/packages.txt
+[chrome]: https://www.google.com/chrome
+[git]: https://git-scm.com
+[hub]: https://hub.github.com
+[vscode]: https://code.visualstudio.com
 [epic]: https://www.epicgames.com/store/en-US
 [steam]: https://store.steampowered.com
 [battlenet]: https://www.blizzard.com/en-us/apps/battle.net/desktop
@@ -99,3 +54,10 @@
 [slack]: https://slack.com/downloads/windows
 [adobe]: https://www.adobe.com/creativecloud.html
 [postman]: https://www.getpostman.com
+[cam]: https://www.nzxt.com/camapp
+[icue]: https://www.corsair.com/us/en/icue
+[geforce]: https://www.nvidia.com/en-us/geforce/geforce-experience
+[bashrc]: https://github.com/bradgarropy/dotfiles/blob/master/.bashrc
+[bash-profile]: https://github.com/bradgarropy/dotfiles/blob/master/.bash_profile
+[vscode-settings]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/settings.json
+[vscode-extensions]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/extensions.txt
