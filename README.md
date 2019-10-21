@@ -48,6 +48,7 @@
 -   [Fonts][fonts]
     -   [Operator Mono][operator]
     -   [Dank Mono][dank]
+    -   [Cascadia Code][cascadia]
 
 [node]: https://nodejs.org
 [python]: https://www.python.org
@@ -77,3 +78,4 @@
 [fonts]: https://drive.google.com/drive/folders/1FC3bUGwagPsEYDFbhjDqsofXbuCAaPz3
 [operator]: https://www.cufonfonts.com/font/operator-mono
 [dank]: https://dank.sh
+[cascadia]: https://github.com/microsoft/cascadia-code
