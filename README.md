@@ -38,10 +38,16 @@
 -   [Visual Studio Code][vscode]
     -   [Settings][vscode-settings]
     -   [Extensions][vscode-extensions]
-    
+-   [OBS][obs]
+    -   [Profiles][obs-profiles]
+    -   [Scenes][obs-scenes]
+
 ## personalization
 
 -   [Wallpaper][wallpaper]
+-   [Fonts][fonts]
+    -   [Operator Mono][operator]
+    -   [Dank Mono][dank]
 
 [node]: https://nodejs.org
 [python]: https://www.python.org
@@ -65,4 +71,9 @@
 [bash-profile]: https://github.com/bradgarropy/dotfiles/blob/master/.bash_profile
 [vscode-settings]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/settings.json
 [vscode-extensions]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/extensions.txt
+[obs-profiles]: https://github.com/bradgarropy/dotfiles/tree/master/obs/profiles
+[obs-scenes]: https://github.com/bradgarropy/dotfiles/tree/master/obs/scenes
 [wallpaper]: https://www.figma.com/file/JOjC6aBAWeODhtSPIv7QVm5Q/%F0%9F%8F%A0-my-home-on-the-web?node-id=156%3A4
+[fonts]: https://drive.google.com/drive/folders/1FC3bUGwagPsEYDFbhjDqsofXbuCAaPz3
+[operator]: https://www.cufonfonts.com/font/operator-mono
+[dank]: https://dank.sh
