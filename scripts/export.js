@@ -7,6 +7,7 @@ const EXTENSIONS = "extensions.txt"
 const shell = (command, options) => {
     const buffer = execSync(command, options)
     const output = buffer.toString()
+    console.log(output)
 
     return output
 }
@@ -17,8 +18,9 @@ fs.writeFileSync(EXTENSIONS, extensions)
 shell(`git clone ${DOTFILES}`)
 shell(`mv ${EXTENSIONS} dotfiles/vscode`)
 
-const status = shell("git status", {cwd: "./dotfiles"})
-const diff = shell("git diff", {cwd: "./dotfiles"})
+shell("git status", {cwd: "./dotfiles"})
+shell("git diff", {cwd: "./dotfiles"})
 
-console.log(status)
-console.log(diff)
+shell(`git add vscode/${EXTENSIONS}`, {cwd: "./dotfiles"})
+shell('git commit -m "update vscode extensions."', {cwd: "./dotfiles"})
+shell("git push", {cwd: "./dotfiles"})
