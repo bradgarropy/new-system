@@ -1,7 +1,8 @@
 const fs = require("fs")
 const {execSync} = require("child_process")
 
-const DOTFILES = "https://github.com/bradgarropy/dotfiles.git"
+const REPO_NAME = "dotfiles"
+const REPO_URL = `https://github.com/bradgarropy/${REPO_NAME}.git`
 const EXTENSIONS = "extensions.txt"
 
 const shell = (command, options) => {
@@ -15,12 +16,21 @@ const shell = (command, options) => {
 const extensions = shell("code --list-extensions")
 fs.writeFileSync(EXTENSIONS, extensions)
 
-shell(`git clone ${DOTFILES}`)
-shell(`mv ${EXTENSIONS} dotfiles/vscode`)
+shell(`git clone ${REPO_URL}`)
+shell(`mv ${EXTENSIONS} ${REPO_NAME}/vscode`)
 
-shell("git status", {cwd: "./dotfiles"})
-shell("git diff", {cwd: "./dotfiles"})
+const status = shell("git status", {cwd: REPO_NAME})
 
-shell(`git add vscode/${EXTENSIONS}`, {cwd: "./dotfiles"})
-shell('git commit -m "update vscode extensions."', {cwd: "./dotfiles"})
-shell("git push", {cwd: "./dotfiles"})
+if (status.includes("nothing to commit, working tree clean")) {
+    console.log("no extension changes.")
+    shell(`rm -rf ${REPO_NAME}`)
+    return
+}
+
+shell("git diff", {cwd: REPO_NAME})
+
+shell(`git add vscode/${EXTENSIONS}`, {cwd: REPO_NAME})
+shell('git commit -m "update vscode extensions."', {cwd: REPO_NAME})
+shell("git push", {cwd: REPO_NAME})
+
+shell(`rm -rf ${REPO_NAME}`)
