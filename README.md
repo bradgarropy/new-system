@@ -29,6 +29,7 @@
 -   [NZXT CAM][cam]
 -   [Corsair iCUE][icue]
 -   [NVIDIA GeForce Experience][geforce]
+-   [Elgato Stream Deck][stream-deck]
 
 ## configuration
 
@@ -68,6 +69,7 @@
 [cam]: https://www.nzxt.com/camapp
 [icue]: https://www.corsair.com/us/en/icue
 [geforce]: https://www.nvidia.com/en-us/geforce/geforce-experience
+[stream-deck]: https://www.elgato.com/en/gaming/downloads
 [bashrc]: https://github.com/bradgarropy/dotfiles/blob/master/.bashrc
 [bash-profile]: https://github.com/bradgarropy/dotfiles/blob/master/.bash_profile
 [vscode-settings]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/settings.json
