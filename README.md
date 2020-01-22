@@ -23,6 +23,7 @@
 -   [Slack][slack]
 -   [Adobe Creative Cloud][adobe]
 -   [Postman][postman]
+-   [Kap][kap]
 
 ## management
 
@@ -66,6 +67,7 @@
 [slack]: https://slack.com/downloads/windows
 [adobe]: https://www.adobe.com/creativecloud.html
 [postman]: https://www.getpostman.com
+[kap]: https://getkap.co
 [cam]: https://www.nzxt.com/camapp
 [icue]: https://www.corsair.com/us/en/icue
 [geforce]: https://www.nvidia.com/en-us/geforce/geforce-experience
