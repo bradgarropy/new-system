@@ -51,6 +51,8 @@
     -   [Operator Mono][operator]
     -   [Dank Mono][dank]
     -   [Cascadia Code][cascadia]
+    -   [Jet Brains Mono][jet-brains]
+    -   [Inter][inter]
 
 [node]: https://nodejs.org
 [python]: https://www.python.org
@@ -83,3 +85,5 @@
 [operator]: https://www.cufonfonts.com/font/operator-mono
 [dank]: https://dank.sh
 [cascadia]: https://github.com/microsoft/cascadia-code
+[jet-brains]: https://www.jetbrains.com/lp/mono
+[inter]: https://rsms.me/inter
