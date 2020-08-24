@@ -24,6 +24,7 @@
 -   [Adobe Creative Cloud][adobe]
 -   [Postman][postman]
 -   [Kap][kap]
+-   [PowerToys][powertoys]
 
 ## management
 
@@ -43,6 +44,8 @@
 -   [OBS][obs]
     -   [Profiles][obs-profiles]
     -   [Scenes][obs-scenes]
+    -   Plugins
+        -   [VirtualCam][virtualcam]
 
 ## personalization
 
@@ -70,6 +73,7 @@
 [adobe]: https://www.adobe.com/creativecloud.html
 [postman]: https://www.getpostman.com
 [kap]: https://getkap.co
+[powertoys]: https://github.com/microsoft/PowerToys
 [cam]: https://www.nzxt.com/camapp
 [icue]: https://www.corsair.com/us/en/icue
 [geforce]: https://www.nvidia.com/en-us/geforce/geforce-experience
@@ -80,6 +84,7 @@
 [vscode-extensions]: https://github.com/bradgarropy/dotfiles/blob/master/vscode/extensions.txt
 [obs-profiles]: https://github.com/bradgarropy/dotfiles/tree/master/obs/profiles
 [obs-scenes]: https://github.com/bradgarropy/dotfiles/tree/master/obs/scenes
+[virtualcam]: https://github.com/CatxFish/obs-virtual-cam
 [wallpaper]: https://www.figma.com/file/JOjC6aBAWeODhtSPIv7QVm5Q/%F0%9F%8F%A0-my-home-on-the-web?node-id=156%3A4
 [fonts]: https://drive.google.com/drive/folders/1FC3bUGwagPsEYDFbhjDqsofXbuCAaPz3
 [operator]: https://www.cufonfonts.com/font/operator-mono
