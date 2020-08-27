@@ -25,6 +25,7 @@
 -   [Postman][postman]
 -   [Kap][kap]
 -   [PowerToys][powertoys]
+-   [VoiceMeeter][voicemeeter]
 
 ## management
 
@@ -74,6 +75,7 @@
 [postman]: https://www.getpostman.com
 [kap]: https://getkap.co
 [powertoys]: https://github.com/microsoft/PowerToys
+[voicemeeter]: https://www.vb-audio.com/Voicemeeter/index.htm
 [cam]: https://www.nzxt.com/camapp
 [icue]: https://www.corsair.com/us/en/icue
 [geforce]: https://www.nvidia.com/en-us/geforce/geforce-experience
